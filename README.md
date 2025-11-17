@@ -1,6 +1,6 @@
 # AarogyaMitra – Offline-Aware Telehealth Companion
 
-[Video demo]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/18S_FkYHKQ4Nf5k5iWR_768JB4M72wQI-/view?usp=sharing))
+Video Demo: <https://drive.google.com/file/d/18S_FkYHKQ4Nf5k5iWR_768JB4M72wQI-/view?usp=sharing>
 
 AarogyaMitra is an Expo React Native application built for rural healthcare access. The product deliberately supports two complementary interaction styles:
 
