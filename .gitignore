@@ -39,3 +39,17 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Firebase sensitive files
+serviceAccountKey.json
+google-services.json
+firebaseConfig.js
+
+# Environment files with API keys
+.env
+.env.local
+.env.production
+.env.development
+
+# Test scripts
+TEST_NOTIFICATIONS.sh

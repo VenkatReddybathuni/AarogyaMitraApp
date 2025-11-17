@@ -1,0 +1,19 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "vitals",
+      "queryScope": "Collection",
+      "fields": [
+        {
+          "fieldPath": "vitalId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "recordedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
